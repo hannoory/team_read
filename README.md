@@ -1,4 +1,4 @@
-# 예제 - PT서비스
+# 예제 - PT플래폼
 
 - 체크포인트 : https://workflowy.com/s/assessment-check-po/T5YrzcMewfo4J6LW
 
